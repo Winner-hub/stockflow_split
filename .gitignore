@@ -1,0 +1,5 @@
+stockflow.db
+*.db
+.secret_key
+__pycache__/
+*.pyc
